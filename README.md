@@ -1,5 +1,9 @@
 # Information Security Career Certification by Joas Antonio and Erick Martinez
 
+### Send your Pull Request if you don't directly agree with the list or want to add something
+
+# Blue Team
+
 ## Junior Blue and White Team
 
 ### CSCU (ECC)
@@ -58,7 +62,7 @@
 
 		- LPIC-2
 
-## Senior and Specialist
+## Senior and Specialist Blue and White Team
 
 ### CSA (ECC)
 
@@ -107,6 +111,8 @@
 - RHCSA (RED HAT)
 
 	- RHCSS (RedHAT)
+
+# Red Team
 
 ## Junior Red Team
 
@@ -204,6 +210,8 @@
 
 			- eCPTX (eLearnSec)
 
+
+# Others
 
 ## LinkedIns
 
