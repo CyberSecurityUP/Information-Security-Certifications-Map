@@ -108,41 +108,53 @@
 
 	- RHCSS (RedHAT)
 
-## LinkedIns
+## Junior Red Team
 
-### https://www.linkedin.com/in/erick-neves-martinez-3b59184b/
+### CSCU (ECC)
 
-### https://www.linkedin.com/in/joas-antonio-dos-santos 
+- Cyber Security (CertiProf)
 
-## Institutes 
+	- Security+ (CompTIA)
 
-### https://www.giac.org/certifications/get-certified/roadmap
+		- Ethical Hacking Foudation (Exin)
 
-### https://www.eccouncil.org/ 
+			- DCPT (Desec)
 
-### https://www.crest-approved.org/
+				- eJPT (eLearnsec)
 
-### https://www.exin.com/ 
+### Linux+ (CompTIA)
 
-### https://www.iacertification.org/ 
 
-### https://www.mile2.com/ 
+- CCNA (Cisco)  
+- LPIC-1 (LPI)
 
-### https://www.isc2.org/
+## Pleno Red Team
 
-### https://specterops.io/
+### CEH (ECC)
 
-### https://www.zeropointsecurity.co.uk/red-team-ops/store/course
+- CND (Ec-council)
 
-### https://www.isaca.org/ 
+	- PenTest+ (CompTIA)
 
-### https://www.cisco.com/c/pt_br/index.html 
+		- CASE Java or .NET (ECC)
 
-### https://www.redhat.com/pt-br 
+			- OSWP (OffSec)
 
-### https://offensive-security.com/ 
+				- CPEH (Mile2)
 
-### https://pauljerimy.com/security-certification-roadmap/
+					- eWPT (eLearnsec)
+
+						- CPEH (Mile2)
+
+							- CRTP (PenTest Academy)
+
+								- GPEN (SANS)
+
+### Linux+ (CompTIA)
+
+
+- CCNA (Cisco)  
+- LPIC-1 (LPI)
 
 ## Senior and Specialist Red Team
 
@@ -192,51 +204,42 @@
 
 			- eCPTX (eLearnSec)
 
-## Pleno Red Team
 
-### CEH (ECC)
+## LinkedIns
 
-- CND (Ec-council)
+### https://www.linkedin.com/in/erick-neves-martinez-3b59184b/
 
-	- PenTest+ (CompTIA)
+### https://www.linkedin.com/in/joas-antonio-dos-santos 
 
-		- CASE Java or .NET (ECC)
+## Institutes 
 
-			- OSWP (OffSec)
+### https://www.giac.org/certifications/get-certified/roadmap
 
-				- CPEH (Mile2)
+### https://www.eccouncil.org/ 
 
-					- eWPT (eLearnsec)
+### https://www.crest-approved.org/
 
-						- CPEH (Mile2)
+### https://www.exin.com/ 
 
-							- CRTP (PenTest Academy)
+### https://www.iacertification.org/ 
 
-								- GPEN (SANS)
+### https://www.mile2.com/ 
 
-### Linux+ (CompTIA)
+### https://www.isc2.org/
 
+### https://specterops.io/
 
-- CCNA (Cisco)  
-- LPIC-1 (LPI)
+### https://www.zeropointsecurity.co.uk/red-team-ops/store/course
 
-## Junior Red Team
+### https://www.isaca.org/ 
 
-### CSCU (ECC)
+### https://www.cisco.com/c/pt_br/index.html 
 
-- Cyber Security (CertiProf)
+### https://www.redhat.com/pt-br 
 
-	- Security+ (CompTIA)
+### https://offensive-security.com/ 
 
-		- Ethical Hacking Foudation (Exin)
-
-			- DCPT (Desec)
-
-				- eJPT (eLearnsec)
-
-### Linux+ (CompTIA)
+### https://pauljerimy.com/security-certification-roadmap/
 
 
-- CCNA (Cisco)  
-- LPIC-1 (LPI)
 
